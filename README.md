@@ -8,3 +8,7 @@ A curated set of 127 skills for a self-hosted Rakazo v0.12.0 library. Every file
 - forrestchang/andrej-karpathy-skills @ 2c606141936f1eeef17fa3043a72095b4765b9c2: karpathy-guidelines.
 
 To import in Rakazo: Skills, then From GitHub. Paste `.../tree/<commit>/catalog`, choose Preview, then Add. Repeat with `.../tree/<commit>/subagents-commands`.
+
+## Import note
+
+Content commit: bc14feb240fd1baf5ca8eca3ebc6a471ab13d64e. A small follow-up commit sits on top so the GitHub commit API response for the pinned tip stays under Rakazo's 512 KB limit. Pin imports to the latest commit on main.
