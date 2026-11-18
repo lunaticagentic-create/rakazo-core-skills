@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "ecc-core-subagents",
+  "version": "2.2.3",
+  "description": "17 ECC 2.2.3 sub-agents (run_subagent skills) and 7 ECC slash commands, copied unchanged from affaan-m/ECC@d2ef268.",
+  "license": "MIT",
+  "repository": "https://github.com/affaan-m/ECC"
+}
